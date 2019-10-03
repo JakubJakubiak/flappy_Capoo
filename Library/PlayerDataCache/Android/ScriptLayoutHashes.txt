@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-F:/Uniti Inu Gra/Flapy 2d/Bild inu/Flapy unity 2d.apk
+D:/ubiti kopia/flappy_Capoo/Bild/flappy_Capoo.apk
 SceneListBegin?
 Assets/Scenes/SampleScene.unity
 SceneListEnd?
